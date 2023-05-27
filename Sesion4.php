@@ -8,13 +8,12 @@
 </head>
 <body>
 <?php
-//Comentario
-/* Hola */
+
 //CONSTANTES
 const CONSTANTE = "Hola";
 echo CONSTANTE;
 define("HOLA2",56);
-echo "<br>";
+
 echo HOLA2;
 
 //TIPOS DE DATOS
